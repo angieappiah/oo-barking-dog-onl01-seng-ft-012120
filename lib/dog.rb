@@ -4,6 +4,9 @@ class Dog
   def name = (Rocky)
     @name = Rocky
   end
+  def bark
+    puts "woof"
+  end
     
     
     
