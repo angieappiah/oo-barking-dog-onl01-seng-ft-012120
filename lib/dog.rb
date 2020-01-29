@@ -9,8 +9,8 @@ class Dog
   end
   
   def name.bark
-    name.bark = Rocky.bark
-    puts "name.bark" woof!.
+    name.bark = 'Rocky.bark'
+    puts #{"name.bark"} woof!.
   end
 end
     
