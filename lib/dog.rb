@@ -7,6 +7,11 @@ class Dog
   def bark
     puts "woof"
   end
+  
+  def name.bark
+    puts "name.bark" woof!.
+  end
+end
     
     
     
