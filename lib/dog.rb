@@ -1,5 +1,8 @@
 # Your code goes here!
 class dog 
-  def 
+  Rocky = dog.new
+  def Rocky.name = 'Rocky'
+    Rocky.name
+    
     
   end
